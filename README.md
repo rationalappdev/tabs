@@ -4,7 +4,7 @@ React Native has a core component called `TabBarIOS`, which renders a tab bar at
 
 ## Tutorial
 
-Read the full tutorial here [http://rationalappdev.com/universal-tab-bar-in-react-native]
+Read the full tutorial here http://rationalappdev.com/universal-tab-bar-in-react-native
 
 ## Demo
 
