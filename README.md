@@ -8,6 +8,4 @@ Read the full tutorial here [http://rationalappdev.com/universal-tab-bar-in-reac
 
 ## Demo
 
-![Demo][demo]
-
-[demo]: https://github.com/rationalappdev/tabs/blob/master/demo.gif
+<img src="https://github.com/rationalappdev/tabs/blob/master/demo.gif" alt="Demo" width="375" />
